@@ -1,4 +1,4 @@
-🚀 Excited to share my latest project: HR Analytics Dashboard using Power BI! 🚀
+🚀 HR Analytics Dashboard using Power BI! 🚀
 
 This project demonstrates my expertise in using data visualization and analytics tools to uncover key insights and provide actionable recommendations. The goal was to monitor essential HR metrics and identify factors impacting employee attrition, enabling the organization to take informed actions for better employee retention.
 
