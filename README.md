@@ -1,31 +1,159 @@
-🚀 HR Analytics Dashboard using Power BI! 🚀
+# 📊 HR Analytics & Workforce Segmentation Dashboard
 
-This project demonstrates my expertise in using data visualization and analytics tools to uncover key insights and provide actionable recommendations. The goal was to monitor essential HR metrics and identify factors impacting employee attrition, enabling the organization to take informed actions for better employee retention.
+An end-to-end HR Analytics and Workforce Segmentation project built using **Power BI**, **Python**, and **Google Analytics integrations** to analyze employee attrition, workforce trends, recruitment funnel performance, and engagement metrics through interactive dashboards and automated reporting workflows.
 
-🔧 Tools Used:
+This project demonstrates how data-driven insights can help organizations improve employee retention, optimize workforce planning, and streamline HR reporting for non-technical stakeholders.
 
-Power BI
-Power Query
-DAX Query
-📊 Data Cleaning and Analysis with Power Query:
+---
 
-Connected to HR data in Excel.
-Cleaned and transformed the data using Power Query.
-Created reusable templates for consistent transformations across multiple sheets.
-Performed necessary cleaning steps like removing duplicates, renaming columns, and changing data types.
-Created parameters for filtering data based on specific conditions.
-Loaded the cleaned data into Power BI.
-🔍 Exploring and Manipulating Data with DAX:
+# 🚀 Project Overview
 
-Used DAX queries to manipulate and analyze data for insightful visualizations.
-Created measures and columns with DAX functions (count, sum) to enhance dashboard KPIs.
-📈 Power BI Dashboard Visualization:
+The dashboard was designed to monitor key HR metrics and identify factors driving employee attrition and workforce inefficiencies. The solution combines:
 
-Designed an intuitive dashboard layout.
-Created a measure table to aggregate and display data.
-Incorporated various visualizations: bar charts, pie charts, column charts, cards, matrix charts, and donut charts.
-Added a "HR Analytics Dashboard" title and a Month slicer with informative KPIs.
-📌 Conclusion:
-Analyzed employee data using Power Query and DAX in Power BI, and created an interactive dashboard to track employee turnover and attrition reasons. Discovered a significant number of salespeople leaving due to low salaries and stagnant hike rates. Provided visualizations and actionable insights to the HR team to address these issues and improve employee retention.
+- Interactive Power BI dashboards
+- Automated reporting workflows
+- Workforce segmentation analysis
+- Recruitment funnel analytics
+- Data cleaning and transformation pipelines
+- Cross-channel analytics integration
 
-Check out the project to see how data-driven insights can transform HR strategies! #DataAnalytics #PowerBI #HRAnalytics #DAX #DataVisualization #BusinessIntelligence
+The project enables HR teams to make informed decisions using real-time visual insights and automated analytics pipelines.
+
+---
+
+# 🔧 Tech Stack
+
+## Analytics & Visualization
+- Power BI
+- DAX
+- Power Query
+- Excel
+
+## Programming & Data Processing
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+## Marketing & Analytics Integrations
+- Google Analytics
+- Google Ads
+
+## Workflow & Automation
+- ETL Pipelines
+- Automated Reporting Workflows
+- Data Aggregation Pipelines
+
+---
+
+# ✨ Key Features
+
+## 📌 HR Analytics Dashboard
+- Designed a fully interactive Power BI dashboard to track:
+  - Employee attrition
+  - Salary trends
+  - Department-wise turnover
+  - Employee demographics
+  - Recruitment funnel metrics
+  - Workforce engagement KPIs
+
+## 🔄 Automated Data Pipelines
+- Built Python-based data pipelines to:
+  - Aggregate workforce and engagement metrics
+  - Automate reporting workflows
+  - Reduce manual analysis effort
+  - Improve reporting consistency
+
+## 📈 Google Analytics & Google Ads Integration
+- Integrated Google Ads and Google Analytics datasets into reporting workflows
+- Enabled cross-channel analytics and recruitment funnel tracking
+- Provided visibility into campaign engagement and hiring trends
+
+## 🧹 Data Cleaning & Transformation
+- Cleaned and transformed Excel datasets using Power Query
+- Removed duplicates and inconsistencies
+- Standardized data formats and created reusable transformation templates
+
+## 📊 Advanced DAX Measures
+Created custom DAX measures for:
+- Turnover Rate
+- Average Salary
+- Attrition Percentage
+- Departmental KPIs
+- Workforce Performance Metrics
+
+## 📉 Workforce Segmentation
+- Applied workforce segmentation analysis to identify:
+  - High-risk attrition groups
+  - Department-level retention issues
+  - Salary stagnation patterns
+  - Hiring inefficiencies
+
+---
+
+# 📊 Dashboard Visualizations
+
+The dashboard includes:
+- Bar Charts
+- Pie Charts
+- Donut Charts
+- Matrix Charts
+- KPI Cards
+- Department-wise Comparisons
+- Attrition Trend Analysis
+- Recruitment Funnel Insights
+- Interactive Slicers & Filters
+
+---
+
+# 🔍 Key Insights
+
+## 📌 Major Findings
+- High employee attrition was observed in sales-related roles
+- Low salary growth and stagnant hike rates were strongly correlated with turnover
+- Recruitment funnel analysis highlighted engagement drop-offs across specific channels
+- Workforce segmentation identified high-risk employee groups requiring retention strategies
+
+## ✅ Business Impact
+- Improved visibility into workforce trends and attrition drivers
+- Reduced manual reporting effort through automation workflows
+- Enabled data-driven HR decision making
+- Delivered actionable insights for retention planning
+
+---
+
+# 📌 Future Improvements
+
+- Add real-time dashboard refresh pipelines
+- Integrate predictive attrition modeling using ML
+- Build AI-powered workforce recommendation engine
+- Add automated email reporting workflows
+- Expand recruitment analytics integrations
+
+---
+
+# 🤝 Skills Demonstrated
+
+- Data Visualization
+- HR Analytics
+- Workforce Segmentation
+- Power BI Dashboard Development
+- DAX & Power Query
+- Python Data Processing
+- ETL Pipelines
+- Automation Workflows
+- Google Analytics Integration
+- Business Intelligence
+- Cross-functional Reporting
+
+---
+
+# 📬 Connect With Me
+
+- LinkedIn: www.linkedin.com/in/muqaddaspreet-singh
+- GitHub: https://github.com/Muqaddaspreet
+- Portfolio: https://muqaddaspreet-singh-portfolio.netlify.app/
+
+---
+
+⭐ If you found this project useful, feel free to star the repository!
